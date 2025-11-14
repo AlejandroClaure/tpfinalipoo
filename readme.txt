@@ -1,0 +1,2 @@
+cree la clase cargarUno, para no usar el menú de main por si se quiere hacer una carga rápida a la bd para comprobar que funcione. 
+Si no, utilizar el menú de main para ir agregando dato por dato o la eliminación completa de una empresa.
