@@ -10,10 +10,10 @@ class Empresa
 {
 
     /*** Atributos ***/
-    private $idempresa;
-    private $enombre;
-    private $edireccion;
-    private $mensajeOperacion;
+    private $idempresa; //id de la empresa
+    private $enombre; //nombre de la empresa
+    private $edireccion; //dirección de la empresa
+    private $mensajeOperacion;  //mensaje de operación
 
     /*** Constructor ***/
     public function __construct()
